@@ -25,15 +25,3 @@
 ```yaml
 07.marks_percentage.c
 ```
-```yaml
-08.even_odd.c
-```
-```yaml
-09.largest_num_among_3_num.c
-```
-```yaml
-10.check__legal_age.c
-```
-```yaml
-11.grade_of_student_specifed_marks.c
-```
