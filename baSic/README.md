@@ -38,11 +38,11 @@
 11.grade_of_student_specifed_marks.c
 ```
 ```yaml
-11.largest_num_among_3_num.c
+12.largest_num_among_3_num.c
 ```
 ```yaml
-largest_num_among_3_num_nested_if_else.c
+13.largest_num_among_3_num_nested_if_else.c
 ```
 ```yaml
-check_upper_lowercase_special_char.c
+14.check_upper_lowercase_special_char.c
 ```
